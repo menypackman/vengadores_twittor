@@ -1,5 +1,5 @@
 let url = window.location.href
-let swLocation = '/nombre_repositorio/sw.js'
+let swLocation = '/vengadores_twittor/sw.js'
 
 if(navigator.serviceWorker)
 {
